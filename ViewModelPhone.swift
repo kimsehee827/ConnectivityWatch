@@ -20,11 +20,9 @@ class ViewModelPhone : NSObject,  ObservableObject, WCSessionDelegate{
     }
     
     func sessionDidBecomeInactive(_ session: WCSession) {
-        
     }
     
     func sessionDidDeactivate(_ session: WCSession) {
-        
     }
     
     

@@ -1,11 +1,3 @@
-//
-//  ContentView.swift
-//  ConnectivitySwiftUI
-//
-//  Created by Евгений Басистый on 12.07.2020.
-//  Copyright © 2020 Евгений Басистый. All rights reserved.
-//
-
 import SwiftUI
 import WatchConnectivity
 
